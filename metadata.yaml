@@ -13,7 +13,12 @@ contributor:
     gutenberg_agent_id: '1191'
     url: http://www.gutenberg.org/2009/agents/1191
     wikipedia: https://en.wikipedia.org/wiki/James_Bryce,_1st_Viscount_Bryce
+covers:
+- cover_type: archival
+  image_path: 69630-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69630#The-Treatment-of-Armenians-in-the-Ottoman-Empire-Documents-Presented-to-Viscount-Grey-of-Fall_
 gutenberg_issued: '2022-12-24'
 identifiers:
   gutenberg: '69630'
